@@ -1,3 +1,5 @@
 *.class
 .settings
 .vscode
+__pycache__
+lsbaws
